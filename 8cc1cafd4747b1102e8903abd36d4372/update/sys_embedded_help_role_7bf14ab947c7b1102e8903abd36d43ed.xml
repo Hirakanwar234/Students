@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1276103_servicen.user" name="x_1276103_servicen.user">bbf14ab947c7b1102e8903abd36d43ec</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 07:22:13</sys_created_on>
+        <sys_id>7bf14ab947c7b1102e8903abd36d43ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bbf14ab947c7b1102e8903abd36d43ec</sys_name>
+        <sys_package display_value="Servicenow Training" source="x_1276103_servicen">8cc1cafd4747b1102e8903abd36d4372</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Servicenow Training">8cc1cafd4747b1102e8903abd36d4372</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7bf14ab947c7b1102e8903abd36d43ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 07:22:13</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

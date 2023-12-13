@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>List Service Training</description>
+        <device_type>browser</device_type>
+        <hint>List Service Training</hint>
+        <name/>
+        <order/>
+        <roles>x_1276103_servicen.admin,x_1276103_servicen.user,x_1276103_servicen.shift</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 07:26:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1bf2ce3947c7b1102e8903abd36d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Servicenow Training</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Servicenow Training" source="x_1276103_servicen">8cc1cafd4747b1102e8903abd36d4372</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Servicenow Training">8cc1cafd4747b1102e8903abd36d4372</sys_scope>
+        <sys_update_name>sys_app_application_1bf2ce3947c7b1102e8903abd36d432f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 07:26:33</sys_updated_on>
+        <title>Servicenow Training</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
